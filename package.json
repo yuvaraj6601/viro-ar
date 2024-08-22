@@ -10,8 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@viro-community/react-viro": "^2.23.0",
-    "create-react-class": "^15.7.0",
+    "@reactvision/react-viro": "^2.41.6",
     "react": "18.2.0",
     "react-native": "0.71.7",
     "react-timer-mixin": "^0.13.4"
